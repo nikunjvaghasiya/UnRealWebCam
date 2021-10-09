@@ -1,5 +1,5 @@
 html{
-    background-color: yellow;
+    background-color: green;
 }
 body{
     padding: 30px;
@@ -19,7 +19,7 @@ video{
 .strip{
     height: 75px;
     min-width: 100vh;
-    background-color: lightyellow;
+    background-color: lightgreen;
 }
 .con1{
     display: flex;
