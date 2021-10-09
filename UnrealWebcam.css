@@ -1,0 +1,42 @@
+html{
+    background-color: yellow;
+}
+body{
+    padding: 30px;
+}
+.photo{
+    background-color: whitesmoke;
+    margin: 10px;
+    height: 400px;
+    width: 700px;
+}
+video{
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.strip{
+    height: 75px;
+    min-width: 100vh;
+    background-color: lightyellow;
+}
+.con1{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+/* input{
+    margin: 3px;
+    padding: 0px;
+} */
+.controls{
+    height: 75px;
+    text-align: center;
+    margin: 10px;   
+}
+#btn{
+    height: 25px;
+    margin: 10px;
+}
+
